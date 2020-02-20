@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Kide-Installer/static/css/main.118d7f91.chunk.css",
-    "main.js": "/Kide-Installer/static/js/main.42884578.chunk.js",
-    "main.js.map": "/Kide-Installer/static/js/main.42884578.chunk.js.map",
+    "main.js": "/Kide-Installer/static/js/main.d4fc51f4.chunk.js",
+    "main.js.map": "/Kide-Installer/static/js/main.d4fc51f4.chunk.js.map",
     "runtime-main.js": "/Kide-Installer/static/js/runtime-main.57ceda07.js",
     "runtime-main.js.map": "/Kide-Installer/static/js/runtime-main.57ceda07.js.map",
     "static/js/2.b78c2125.chunk.js": "/Kide-Installer/static/js/2.b78c2125.chunk.js",
     "static/js/2.b78c2125.chunk.js.map": "/Kide-Installer/static/js/2.b78c2125.chunk.js.map",
     "index.html": "/Kide-Installer/index.html",
-    "precache-manifest.58c79db02f6a6336b0847481bb10ab72.js": "/Kide-Installer/precache-manifest.58c79db02f6a6336b0847481bb10ab72.js",
+    "precache-manifest.9d987d2c6de4e6a691ba762156278bc8.js": "/Kide-Installer/precache-manifest.9d987d2c6de4e6a691ba762156278bc8.js",
     "service-worker.js": "/Kide-Installer/service-worker.js",
     "static/css/main.118d7f91.chunk.css.map": "/Kide-Installer/static/css/main.118d7f91.chunk.css.map",
     "static/js/2.b78c2125.chunk.js.LICENSE.txt": "/Kide-Installer/static/js/2.b78c2125.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.57ceda07.js",
     "static/js/2.b78c2125.chunk.js",
     "static/css/main.118d7f91.chunk.css",
-    "static/js/main.42884578.chunk.js"
+    "static/js/main.d4fc51f4.chunk.js"
   ]
 }
