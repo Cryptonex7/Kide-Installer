@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-bottom: 30px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-brethe infinite 10s ease-in-out;
+  }
+}
+
+.App-header {
+  scroll-behavior: smooth;
+  background-color: #111;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1em;
+  color: #FFF;
+}
+.App-link {
+  color: #FFF;
+  padding: 8px 38px;
+  font-size: 1em;
+  border-radius: 40px;
+  outline: none;
+  background-color: cornflowerblue;
+  border: none;
+}
+
+@keyframes App-logo-brethe {
+  0% {
+    transform: scale(1.0);
+    opacity: 0.8;
+    filter: drop-shadow(0 0 0.75rem cornflowerblue);
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 1.0;
+    filter: drop-shadow(0 0 0.5rem cornflowerblue);
+
+  }
+  100% {
+    transform: scale(1.0);
+    opacity: 0.8;
+    filter: drop-shadow(0 0 0.75rem cornflowerblue);
+  }
+}
