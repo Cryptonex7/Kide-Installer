@@ -7,13 +7,27 @@
   pointer-events: none;
   margin-bottom: 30px;
 }
-
+.loader{
+  pointer-events: none;
+  margin-bottom: 50px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-brethe infinite 10s ease-in-out;
+    animation: App-logo-breathe infinite 10s ease-in-out;
   }
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  .loader {
+    animation: loader-spin infinite 1s ease-in-out;
+  }
+}
+
+.subtext{
+  font-size: 0.5em;
+  margin-bottom: 10px;
+  color: #a7a7a7;
+}
 .App-header {
   scroll-behavior: smooth;
   background-color: #111;
@@ -37,11 +51,28 @@ a {
   font-size: 1em;
   border-radius: 40px;
   outline: none;
+  margin-top: 20px;
   background-color: cornflowerblue;
   border: none;
 }
 
-@keyframes App-logo-brethe {
+@keyframes loader-spin {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: bottom left;
+  }
+  50% {
+    transform: rotate(60deg);
+    transform-origin: bottom left;
+
+  }
+  100% {
+    transform: rotate(360deg);
+    transform-origin: bottom left;
+  }
+}
+
+@keyframes App-logo-breathe {
   0% {
     transform: scale(1.0);
     opacity: 0.8;
