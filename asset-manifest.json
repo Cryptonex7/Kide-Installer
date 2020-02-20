@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cryptonex7/Kide-Installer/static/css/main.c37afee0.chunk.css",
+    "main.js": "/Cryptonex7/Kide-Installer/static/js/main.e4f0ab9c.chunk.js",
+    "main.js.map": "/Cryptonex7/Kide-Installer/static/js/main.e4f0ab9c.chunk.js.map",
+    "runtime-main.js": "/Cryptonex7/Kide-Installer/static/js/runtime-main.66b0c4d5.js",
+    "runtime-main.js.map": "/Cryptonex7/Kide-Installer/static/js/runtime-main.66b0c4d5.js.map",
+    "static/js/2.19072d16.chunk.js": "/Cryptonex7/Kide-Installer/static/js/2.19072d16.chunk.js",
+    "static/js/2.19072d16.chunk.js.map": "/Cryptonex7/Kide-Installer/static/js/2.19072d16.chunk.js.map",
+    "index.html": "/Cryptonex7/Kide-Installer/index.html",
+    "precache-manifest.9e70366a062cb8cedc68ef5c25b4a4b1.js": "/Cryptonex7/Kide-Installer/precache-manifest.9e70366a062cb8cedc68ef5c25b4a4b1.js",
+    "service-worker.js": "/Cryptonex7/Kide-Installer/service-worker.js",
+    "static/css/main.c37afee0.chunk.css.map": "/Cryptonex7/Kide-Installer/static/css/main.c37afee0.chunk.css.map",
+    "static/js/2.19072d16.chunk.js.LICENSE.txt": "/Cryptonex7/Kide-Installer/static/js/2.19072d16.chunk.js.LICENSE.txt",
+    "static/media/kide_logo.svg": "/Cryptonex7/Kide-Installer/static/media/kide_logo.33dd57b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b0c4d5.js",
+    "static/js/2.19072d16.chunk.js",
+    "static/css/main.c37afee0.chunk.css",
+    "static/js/main.e4f0ab9c.chunk.js"
+  ]
+}
