@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Kide-Installer/static/css/main.c37afee0.chunk.css",
-    "main.js": "/Kide-Installer/static/js/main.efb98687.chunk.js",
-    "main.js.map": "/Kide-Installer/static/js/main.efb98687.chunk.js.map",
+    "main.css": "/Kide-Installer/static/css/main.118d7f91.chunk.css",
+    "main.js": "/Kide-Installer/static/js/main.42884578.chunk.js",
+    "main.js.map": "/Kide-Installer/static/js/main.42884578.chunk.js.map",
     "runtime-main.js": "/Kide-Installer/static/js/runtime-main.57ceda07.js",
     "runtime-main.js.map": "/Kide-Installer/static/js/runtime-main.57ceda07.js.map",
-    "static/js/2.19072d16.chunk.js": "/Kide-Installer/static/js/2.19072d16.chunk.js",
-    "static/js/2.19072d16.chunk.js.map": "/Kide-Installer/static/js/2.19072d16.chunk.js.map",
+    "static/js/2.b78c2125.chunk.js": "/Kide-Installer/static/js/2.b78c2125.chunk.js",
+    "static/js/2.b78c2125.chunk.js.map": "/Kide-Installer/static/js/2.b78c2125.chunk.js.map",
     "index.html": "/Kide-Installer/index.html",
-    "precache-manifest.61aa8594b3075eb3c541ff4e1c59c1d0.js": "/Kide-Installer/precache-manifest.61aa8594b3075eb3c541ff4e1c59c1d0.js",
+    "precache-manifest.58c79db02f6a6336b0847481bb10ab72.js": "/Kide-Installer/precache-manifest.58c79db02f6a6336b0847481bb10ab72.js",
     "service-worker.js": "/Kide-Installer/service-worker.js",
-    "static/css/main.c37afee0.chunk.css.map": "/Kide-Installer/static/css/main.c37afee0.chunk.css.map",
-    "static/js/2.19072d16.chunk.js.LICENSE.txt": "/Kide-Installer/static/js/2.19072d16.chunk.js.LICENSE.txt",
-    "static/media/kide_logo.svg": "/Kide-Installer/static/media/kide_logo.33dd57b0.svg"
+    "static/css/main.118d7f91.chunk.css.map": "/Kide-Installer/static/css/main.118d7f91.chunk.css.map",
+    "static/js/2.b78c2125.chunk.js.LICENSE.txt": "/Kide-Installer/static/js/2.b78c2125.chunk.js.LICENSE.txt",
+    "static/media/kide_logo.svg": "/Kide-Installer/static/media/kide_logo.33dd57b0.svg",
+    "static/media/loader.svg": "/Kide-Installer/static/media/loader.33063a25.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.57ceda07.js",
-    "static/js/2.19072d16.chunk.js",
-    "static/css/main.c37afee0.chunk.css",
-    "static/js/main.efb98687.chunk.js"
+    "static/js/2.b78c2125.chunk.js",
+    "static/css/main.118d7f91.chunk.css",
+    "static/js/main.42884578.chunk.js"
   ]
 }
