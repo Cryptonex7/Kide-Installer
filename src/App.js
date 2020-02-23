@@ -26,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <a id="download" href="https://www.dropbox.com/s/kdmsmya4e5dd57l/app-release.apk?dl=1" className="link">
+          <a id="download" href="https://drive.google.com/uc?export=download&id=1cq4KPL3YaI1tyvywe8mzILlAZdm42Abu" className="link">
             Download Now
           </a>
         </button>
