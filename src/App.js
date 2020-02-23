@@ -30,6 +30,12 @@ function App() {
             Download Now
           </a>
         </button>
+        <br/>
+        <hr/>
+        <div className="subtext">
+          This may say "The APK is harmful" since we deployed the app outside the Google PlayStore.
+          Dont Worry at all, <b>Install Anyway</b> We Got Your Back!
+        </div>
       </header>
     </div>
   );
